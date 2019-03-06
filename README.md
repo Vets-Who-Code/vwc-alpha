@@ -6,3 +6,4 @@ Phil Tenteromano
 TA - Erin Mckinney
 
 ## Troop Names
+Meghan Duprey
