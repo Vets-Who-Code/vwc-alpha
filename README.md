@@ -1,2 +1,1 @@
-# vwc-alpha
-Alpha Class
+# Vets Who Code | Alpha Class 🇺🇸
