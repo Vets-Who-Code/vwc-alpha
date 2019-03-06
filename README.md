@@ -3,6 +3,6 @@
 Jerome Hardaway
 Brad Hankee
 Phil Tenteromano
-TA - Erin Mckinney
+*TA - Erin McKinney+ 
 
 ## Troop Names
