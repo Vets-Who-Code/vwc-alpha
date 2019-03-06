@@ -1,5 +1,6 @@
 # Vets Who Code | Alpha Class 🇺🇸
 
+
 ## Instructor Names
 
 Jerome Hardaway
@@ -9,6 +10,7 @@ Phil Tenteromano
 
 ## Troop Names
 
-
+Mike Maquera
 Bryant Caruthers
 Meghan Duprey
+
