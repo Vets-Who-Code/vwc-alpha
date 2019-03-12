@@ -6,7 +6,11 @@
 Jerome Hardaway
 Brad Hankee
 Phil Tenteromano
+<<<<<<< HEAD
+*TA - Erin McKinney+
+=======
 *TA - Erin McKinney* 
+>>>>>>> 34aaad61f2151a51f541ee1a6e9e91fe17c8c03b
 
 ## Troop Names
 
