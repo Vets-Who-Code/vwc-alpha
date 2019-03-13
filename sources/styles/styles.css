@@ -25,6 +25,7 @@ main {
   display: flex;
   flex-direction: column;
   justify-content: center;
+  align-items: center;
 }
 .about img {
   justify-self: center;
