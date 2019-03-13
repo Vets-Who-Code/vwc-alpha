@@ -44,7 +44,6 @@ video {
 /* Main Navbar */
 #navbar {
   display: flex;
-  position: fixed;
   top: 0;
   background: #333;
   color: #fff;

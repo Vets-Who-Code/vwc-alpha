@@ -2,14 +2,29 @@
   "workbench.colorCustomizations": {
     "statusBar.noFolderBackground": "#333333",
     "statusBar.debuggingBackground": "#263238",
-    "activityBar.background": "#4d4d4d",
+    "activityBar.background": "#707958",
     "activityBar.foreground": "#e7e7e7",
     "activityBar.inactiveForeground": "#e7e7e799",
-    "activityBarBadge.background": "#308f30",
-    "activityBarBadge.foreground": "#e7e7e7",
-    "titleBar.activeBackground": "#333333",
-    "titleBar.inactiveBackground": "#33333399",
+    "activityBarBadge.background": "#a3b5bc",
+    "activityBarBadge.foreground": "#15202b",
+    "titleBar.activeBackground": "#555c43",
+    "titleBar.inactiveBackground": "#555c4399",
     "titleBar.activeForeground": "#e7e7e7",
-    "titleBar.inactiveForeground": "#e7e7e799"
-  }
+    "titleBar.inactiveForeground": "#e7e7e799",
+    "statusBar.background": "#555c43",
+    "statusBarItem.hoverBackground": "#707958",
+    "statusBar.foreground": "#e7e7e7"
+  },
+  "peacock.affectActivityBar": true,
+  "peacock.affectStatusBar": true,
+  "peacock.favoriteColors": [
+    { "name": "Gatsby Purple", "value": "#639" },
+    { "name": "Auth0 Orange", "value": "#eb5424" },
+    { "name": "Azure Blue", "value": "#007fff" },
+    { "name": "Olive Drab Camouflage", "value": "#544F3D" },
+    { "name": "Dark Green Camouflage", "value": "#555C43" },
+    { "name": "Battleship Grey", "value": "#848482" },
+    { "name": "Deck Grey", "value": "#484848" },
+    { "name": "Haze Grey", "value": "#939393" }
+  ]
 }
